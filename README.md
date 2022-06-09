@@ -8,7 +8,7 @@
 
 <h3 align="center">  :art: Stack :art: </h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/python-000000?style=flat-square&logo=next.js&logoColor=white"/>
   
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>
   
