@@ -28,7 +28,10 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
   </a>
   
-  <img src="https://img.shields.io/badge/StyledComponent-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
+    <a href="https://www.facebook.com/od_nh/" target="_blank" noreferrer noopner>
+    <img src="https://img.shields.io/badge/Facebook-E4405F?style=flat-square&logo=facebook&logoColor=white"/>
+  </a>
+  
   
 </p>
 
