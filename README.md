@@ -14,24 +14,21 @@
   
   <img src="https://img.shields.io/badge/C++-311C87?style=flat-square&logo=C++&logoColor=white"/>
   
-  <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-311C87?style=flat-square&logo=C&logoColor=white"/>
   
-  <img src="https://img.shields.io/badge/Css-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Javascript-3178C6?style=flat-square&logo=Javascript&logoColor=white"/>
   
-  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Unity-1572B6?style=flat-square&logo=Unity&logoColor=white"/>
   
-  <img src="https://img.shields.io/badge/Rollup-EC4A3F?style=flat-square&logo=rollup&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Solidity-8DD6F9?style=flat-square&logo=solidity&logoColor=black"/>
   
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CUDA-EC4A3F?style=flat-square&logo=CUDA&logoColor=white"/>
   
   <a href="https://www.instagram.com/od_nh/" target="_blank" noreferrer noopner>
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
   </a>
   
   <img src="https://img.shields.io/badge/StyledComponent-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
-  
-  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
-  
   
 </p>
 
