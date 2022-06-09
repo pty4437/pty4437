@@ -12,7 +12,7 @@
   
   <img src="https://img.shields.io/badge/Java-764ABC?style=flat-square&logo=Java&logoColor=white"/>
   
-  <img src="https://img.shields.io/badge/C++-311C87?style=flat-square&logo=C++&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-311C87?style=flat-square&logo=c++&logoColor=white"/>
   
   <img src="https://img.shields.io/badge/C-311C87?style=flat-square&logo=C&logoColor=white"/>
   
@@ -22,7 +22,7 @@
   
   <img src="https://img.shields.io/badge/Solidity-8DD6F9?style=flat-square&logo=solidity&logoColor=black"/>
   
-  <img src="https://img.shields.io/badge/CUDA-EC4A3F?style=flat-square&logo=CUDA&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CUDA-EC4A3F?style=flat-square&logo=cuda&logoColor=white"/>
   
   <a href="https://www.instagram.com/od_nh/" target="_blank" noreferrer noopner>
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
