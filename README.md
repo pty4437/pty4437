@@ -8,11 +8,11 @@
 
 <h3 align="center">  :art: Stack :art: </h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/python-000000?style=flat-square&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/python-000000?style=flat-square&logo=python&logoColor=white"/>
   
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-764ABC?style=flat-square&logo=Java&logoColor=white"/>
   
-  <img src="https://img.shields.io/badge/ApolloClient-311C87?style=flat-square&logo=apollo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-311C87?style=flat-square&logo=C++&logoColor=white"/>
   
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
   
