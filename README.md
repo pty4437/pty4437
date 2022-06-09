@@ -2,7 +2,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" noreferrer noopner>
-    <img src="https://github-readme-stats.vercel.app/api?username=d0hyeon" alt="d0hyeon's GitHub stats" title="d0hyeon's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=pty4437" alt="pty4437's GitHub stats" title="pty4437's GitHub stats" />
   </a>
 </p>
 
@@ -36,7 +36,7 @@
 </p>
 
 <!--
-**d0hyeon/d0hyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**pty4437/pty4437** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
