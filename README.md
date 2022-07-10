@@ -33,6 +33,11 @@
   </a>
   
   
+  
+  <h3 align="center">  🔭 Working 🔭 </h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Samsung-000000?style=flat-square&logo=samsung&logoColor=white"/>
+  
 </p>
 
 <!--
