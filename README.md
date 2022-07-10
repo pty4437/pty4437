@@ -24,14 +24,6 @@
   
   <img src="https://img.shields.io/badge/CUDA-EC4A3F?style=flat-square&logo=cuda&logoColor=white"/>
   
-  <a href="https://www.instagram.com/od_nh/" target="_blank" noreferrer noopner>
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
-  </a>
-  
-  <a href="https://www.facebook.com/od_nh/" target="_blank" noreferrer noopner>
-    <img src="https://img.shields.io/badge/Facebook-E4405F?style=flat-square&logo=facebook&logoColor=white"/>
-  </a>
-  
   
   
   <h3 align="center">  🔭 Working 🔭 </h3>
