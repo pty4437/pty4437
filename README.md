@@ -10,7 +10,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/python-000000?style=flat-square&logo=python&logoColor=white"/>
   
-  <img src="https://img.shields.io/badge/java-764ABC?style=flat-square&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JAVA-764ABC?style=flat-square&logo=Java&logoColor=white"/>
   
   <img src="https://img.shields.io/badge/C++-311C87?style=flat-square&logo=c++&logoColor=white"/>
   
